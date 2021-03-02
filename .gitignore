@@ -1,0 +1,6 @@
+build
+node_modules
+test
+migrations
+truffle-config.js
+contracts/Migrations.sol

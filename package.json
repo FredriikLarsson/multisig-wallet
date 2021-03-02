@@ -1,0 +1,14 @@
+{
+  "name": "multisig-wallet",
+  "version": "1.0.0",
+  "description": "Mutlisignature Ether wallet, for multiple actors to cooperate in the same Ether wallet.",
+  "main": "1_initial_migration.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fredrik Larsson",
+  "license": "ISC",
+  "devDependencies": {
+    "truffle": "^5.2.2"
+  }
+}
